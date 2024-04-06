@@ -1,0 +1,12 @@
+{
+  "ID": "AC0B8AB4-7DB9-4D22-878F-185E50D86935",
+  "Version": "1.0.0",
+  "IcoPath": "icon.png",
+  "ActionKeyword": "savvy",
+  "Name": "SavvyCal Link List",
+  "Description": "A plugin that lists your SavvyCal links.",
+  "Author": "Yusyuriv",
+  "Language": "csharp",
+  "Website": "https://github.com/Yusyuriv/FlowLauncherCommunity.Plugin.SavvyCalLinkList",
+  "ExecuteFileName": "FlowLauncherCommunity.Plugin.SavvyCalLinkList.dll"
+}
